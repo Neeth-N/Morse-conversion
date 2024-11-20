@@ -20,9 +20,16 @@ This project provides a utility for converting text to Morse code and vice versa
 
 ## How to Use
 
+#Goto my deployed page : [Morsere](https://neeth-n.github.io/Morse-conversion/)
+
+#or
+
 1. Clone this repository.
-2. Open the `index.html` file in your browser.
-3. Input text or Morse code and click the respective button to convert.
+2. run 'npm install' to install all the dependencies
+3. run 'npm start' to start the local server 
+4. Input text or Morse code and click the respective button to convert.
+
+Check below for detailed steps
 
 ## License
 
