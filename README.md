@@ -1,6 +1,33 @@
-# Getting Started with Create React App
+# Morse Conversion
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple web-based tool for encoding and decoding Morse code.
+
+## Description
+
+This project provides a utility for converting text to Morse code and vice versa. It allows users to input text and get the corresponding Morse code output, or to enter Morse code and decode it into readable text.
+
+## Features
+
+- Encode text to Morse code
+- Decode Morse code to text
+- Simple, user-friendly interface
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## How to Use
+
+1. Clone this repository.
+2. Open the `index.html` file in your browser.
+3. Input text or Morse code and click the respective button to convert.
+
+## License
+
+This project is open source and available under the MIT License.
+
 
 ## Available Scripts
 
