@@ -22,7 +22,7 @@ This project provides a utility for converting text to Morse code and vice versa
 
 Goto my deployed page : [Morsere](https://neeth-n.github.io/Morse-conversion/)
 
-# or
+ or
 
 1. Clone this repository.
 2. run 'npm install' to install all the dependencies
