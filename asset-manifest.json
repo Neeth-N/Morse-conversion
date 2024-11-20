@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Morse-conversion/static/css/main.98cf42b4.css",
+    "main.js": "/Morse-conversion/static/js/main.8400ff49.js",
+    "static/js/453.15af8d30.chunk.js": "/Morse-conversion/static/js/453.15af8d30.chunk.js",
+    "index.html": "/Morse-conversion/index.html",
+    "main.98cf42b4.css.map": "/Morse-conversion/static/css/main.98cf42b4.css.map",
+    "main.8400ff49.js.map": "/Morse-conversion/static/js/main.8400ff49.js.map",
+    "453.15af8d30.chunk.js.map": "/Morse-conversion/static/js/453.15af8d30.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98cf42b4.css",
+    "static/js/main.8400ff49.js"
+  ]
+}
